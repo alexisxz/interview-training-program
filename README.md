@@ -2,7 +2,7 @@
 A program to test interview skills in four different languages
 
 ## steps
- - download the zip file
+ - download the zip or rar file (by your preferred)
  - extract here on desktop
  - click on "Interview training" shortcut file
  - if works:
